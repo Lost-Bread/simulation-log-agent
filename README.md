@@ -14,7 +14,7 @@ python3 analyze_log.py
 ## What this teaches
 
 - Read a text file from an engineering workflow.
-- Put reusable logic in a Python function.
+- Select warning and error lines with simple Python lists.
 - Let program output decide an overall status: `NORMAL`, `WARNING`, or `ERROR`.
 - Track the work with Git from the first day.
 
