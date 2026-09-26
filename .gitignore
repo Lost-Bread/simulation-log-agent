@@ -1,0 +1,9 @@
+# Python's local virtual environment
+.venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Local settings and secrets
+.env
