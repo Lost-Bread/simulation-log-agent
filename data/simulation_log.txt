@@ -1,0 +1,5 @@
+INFO: Simulation started.
+INFO: Step 1 converged after 18 iterations.
+WARNING: Temperature rise exceeded the expected range at sensor T-03.
+INFO: Step 2 converged after 23 iterations.
+INFO: Simulation completed.
