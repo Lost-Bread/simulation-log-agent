@@ -22,3 +22,12 @@ python3 analyze_log.py
 
 Read a CSV result file, calculate a temperature jump, and prepare a structured
 result that an AI agent could later call as a tool.
+
+
+## 📝 Note
+
+This is my first GitHub project.
+
+It was created with the help of ChatGPT when I was just beginning to learn GitHub and AI Agent development.
+
+I keep this project here as a record of where I started.
